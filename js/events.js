@@ -12,7 +12,7 @@ function frameIt() {
 
 function pressIt() {
   $('#typing').on('keydown', function(e) {
-    key = code
+    
   })
 }
 
